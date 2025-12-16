@@ -1,6 +1,6 @@
-## Key Findings
-
-- Overall attrition rate is approximately 16%, indicating moderate employee turnover
-- Sales department shows the highest attrition rate (20.63%)
-- Employees with low salary bands have higher attrition
-- Early-career employees and younger age groups are more likely to leave
+## Key Insights
+- Overall attrition rate is approximately **16%**
+- The **Sales department** exhibits the highest attrition risk compared to other departments
+- Employees in **lower salary bands** show significantly higher attrition rates
+- **Early-career employees** (with fewer years at the company) are more likely to leave
+- **Younger age groups** demonstrate higher attrition, indicating challenges in early-stage employee retention
